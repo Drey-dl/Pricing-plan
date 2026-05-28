@@ -123,6 +123,7 @@ li {
 		z-index: 3;
 		height: 100%;
 		padding-top: 60px;
+		padding-bottom: 30px;
 	}
 
 	.horizontal-strip {
